@@ -1,0 +1,11 @@
+{
+  "name": "rabittmq",
+  "version": "1.0.0",
+  "description": "rabittmq basics",
+  "main": "index.js",
+  "author": "Abin T H",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}
