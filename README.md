@@ -1,6 +1,6 @@
 # RabbitMQ-Node.js
 
-![RabbitMQ Logo](rabbitmq-logo.png)
+![RabbitMQ Logo](https://www.rabbitmq.com/img/logo-rabbitmq.svg)
 
 ## Overview
 
