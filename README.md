@@ -9,7 +9,7 @@ This repository contains code and resources related to RabbitMQ, a robust and hi
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
+- [Prerequisites](#prerequisites) 
 - [Installation](#installation)
 <!-- - [Usage](#usage)
 - [Examples](#examples)
