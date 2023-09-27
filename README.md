@@ -9,7 +9,7 @@ This repository contains code and resources related to RabbitMQ, a robust and hi
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
+- [Prerequisites](#prerequisites) 
 - [Installation](#installation)
 <!-- - [Usage](#usage)
 - [Examples](#examples)
@@ -72,7 +72,7 @@ Before using the resources in this repository, make sure you have the following 
 
    ```bash
    rabbitmqctl status
-   ```
+   ``` 
 
    This command should display information about the RabbitMQ server if it's running correctly.
 
@@ -100,7 +100,7 @@ Before using the resources in this repository, make sure you have the following 
 
 You now have RabbitMQ running in a Docker container, and the RabbitMQ Management GUI is accessible for monitoring and administration.
 
-<!-- ## Usage
+<!-- ## Usage    
 
 Describe how to use the resources provided in this repository. Include information on setting up connections, sending and receiving messages, and managing RabbitMQ configurations.
 
