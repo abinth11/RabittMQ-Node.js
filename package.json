@@ -6,6 +6,7 @@
   "author": "Abin T H",
   "license": "MIT",
   "dependencies": {
-    "amqplib": "^0.10.3"
+    "amqplib": "^0.10.3",
+    "uuid": "^9.0.1"
   }
 }
